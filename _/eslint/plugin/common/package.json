@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@babel/generator": "7.28.3",
+    "eslint": "9.34.0"
+  },
+  "keywords": [
+    "eslintconfig",
+    "eslint"
+  ],
+  "main": "_.js",
+  "name": "eslint-plugin-common",
+  "peerDependencies": {
+    "eslint": "9.34.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/id-ekaagr/eslint-plugin-common"
+  },
+  "scripts": {},
+  "type": "module",
+  "version": "1.3.5"
+}
